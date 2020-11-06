@@ -3,7 +3,7 @@
 <form method = "post" align = "center" action = "checklogin.php">
 	<br><br><br><br><br><br>
 	Email		: <input type = "text" name = "email" > <br><br>
-	Passward	: <input type = "text" name = "passward" > <br><br>
+	Passward	: <input type = "password" name = "passward" > <br><br>
 	<br>
 	<input type = "submit">	
 </form>
